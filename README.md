@@ -1,0 +1,1 @@
+# HaskellExercises for School
